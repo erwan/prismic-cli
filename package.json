@@ -1,0 +1,12 @@
+{
+  "author": "prismic.io developers",
+  "license": "Apache 2.0",
+  "name": "prismic-cli",
+  "version": "0.0.1",
+  "description": "Command line to bootstrap prismic projects.",
+  "bin": {
+    "test-module-exec": "bin/prismic.js"
+  },
+  "main" : "./lib/index.js",
+  "preferGlobal": "true"
+}
