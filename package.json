@@ -7,6 +7,11 @@
   "bin": {
     "prismic": "bin/prismic.js"
   },
-  "main" : "./lib/index.js",
-  "preferGlobal": "true"
+  "main": "./lib/index.js",
+  "preferGlobal": "true",
+  "dependencies": {
+    "command-line-commands": "^1.0.3",
+    "form-data": "^1.0.0-rc4",
+    "inquirer": "^1.0.3"
+  }
 }
