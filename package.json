@@ -5,7 +5,7 @@
   "version": "0.0.1",
   "description": "Command line to bootstrap prismic projects.",
   "bin": {
-    "test-module-exec": "bin/prismic.js"
+    "prismic": "bin/prismic.js"
   },
   "main" : "./lib/index.js",
   "preferGlobal": "true"
